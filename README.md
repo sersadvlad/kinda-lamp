@@ -11,4 +11,5 @@ Test/Quality lead: Serhii Sadrytskyj
 Developers: Yaroslav Dovgopol, Paul Burchak, Mykola Papenko
 
 Trello board: https://trello.com/b/GiRlMeRe/kinda-board
-Project documentation: 
+
+Project documentation 
