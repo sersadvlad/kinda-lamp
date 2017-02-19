@@ -1,6 +1,8 @@
 
-Team's name: Puppies 
+Team's name: Puppies
+ 
 Project: Kinda-Lamp 
+
 
 Team members 
 
