@@ -6,7 +6,7 @@
 
 #Team members: <BR>
 
-Team lead: Maks Ilyin <BR>
+Team lead: Max Il'yn <BR>
 Product owner: Denys Kolomiiets <BR>
 Scrum: Dmytrii Andrievskii <BR>
 Test/Quality lead: Serhii Sadrytskyj <BR>
