@@ -1,6 +1,6 @@
-<p>#Team name: Puppies </p>
-<p>#Project: Kinda-Lamp </p>
-<p>#Logo: ![LOGO](http://i65.tinypic.com/2zf8hoo.jpg "LOGO")</p>
+<p>#Team name: Puppies 
+<p>#Project: Kinda-Lamp 
+<p>#Logo: ![LOGO](http://i65.tinypic.com/2zf8hoo.jpg "LOGO")
 
 <p>#Team members 
 
@@ -8,8 +8,8 @@ Team lead: Maks Ilyin
 Product owner: Denys Kolomiiets 
 Scrum: Dmytrii Andrievskii
 Test/Quality lead: Serhii Sadrytskyj 
-Developers: Yaroslav Dovgopol, Paul Burchak, Mykola Papenko</p>
+Developers: Yaroslav Dovgopol, Paul Burchak, Mykola Papenko
 
-<p>#[Trello board](https://trello.com/b/GiRlMeRe/kinda-board "TRELLO")</p>
+#[Trello board](https://trello.com/b/GiRlMeRe/kinda-board "TRELLO")
 
-<p>#Project documentation </p>
+#Project documentation
