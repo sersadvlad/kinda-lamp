@@ -1,7 +1,7 @@
 
 Team name: Puppies 
 Project: Kinda-Lamp 
-Logo: ![LOGO](http://tinypic.com/r/2zf8hoo/9 "LOGO")
+Logo: ![LOGO](http://i65.tinypic.com/2zf8hoo.jpg "LOGO")
 Team members 
 
 Team lead: Maks Ilyin 
