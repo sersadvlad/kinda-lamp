@@ -1,8 +1,10 @@
-<p>#Team name: Puppies 
-<p>#Project: Kinda-Lamp 
-<p>#Logo: ![LOGO](http://i65.tinypic.com/2zf8hoo.jpg "LOGO")
+#Team name: Puppies 
 
-<p>#Team members 
+#Project: Kinda-Lamp 
+
+#Logo: ![LOGO](http://i65.tinypic.com/2zf8hoo.jpg "LOGO")
+
+#Team members 
 
 Team lead: Maks Ilyin 
 Product owner: Denys Kolomiiets 
