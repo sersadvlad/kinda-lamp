@@ -4,7 +4,7 @@
 
 #Logo: <BR>![LOGO](http://i65.tinypic.com/2zf8hoo.jpg "LOGO")<BR>
 
-#Team members <BR>
+#Team members: <BR>
 
 Team lead: Maks Ilyin <BR>
 Product owner: Denys Kolomiiets <BR>
