@@ -1,6 +1,6 @@
 #Team name: Puppies <BR>
 
-#Logo: <BR>![help me](http://i65.tinypic.com/2zf8hoo.jpg "LOGO")<BR>
+#Logo: <BR>![help me](http://i65.tinypic.com/2zf8hoo.jpg "help me")<BR>
 
 #Team members: <BR>
 
