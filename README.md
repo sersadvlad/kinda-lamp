@@ -1,24 +1,17 @@
-
-Team's name: Puppies
- 
-Project: Kinda-Lamp 
-
-
-Team members 
-
-Team lead: Maks Ilyin 
-
-Product owner: Denis Kolomiets 
-
-Scrum: Dmytro Andrievskiy 
-
-Test/Quality lead: Serhii Sadrytskyj 
-
-Developers: Yaroslav Dovgopol, Paul Burchak, Mykola Papenko
+#Team name: Puppies <BR>
+#Logo: <BR>![help me](http://i65.tinypic.com/2zf8hoo.jpg "help me")<BR>
+#Team members: <BR>
 
 
-Trello board: https://trello.com/b/GiRlMeRe/kinda-board
+Product Owner: Denys Kolomiiets <BR>
+Scrum Master: Dmytrii Andrievskii <BR>
+Team Lead: Max Il'yn <BR>
+QA Lead: Serhii Sadrytskyj <BR>
+Developers: Yaroslav Dovgopol, Paul Burchak<BR>
+Tester: Mykola Papenko<BR>
 
-Project documentation: https://vk.com/away.php?to=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1s7mgYBIGsj7mAxSQLoYYF_097pDYV1SyPLg5Myy7nSA%2Fedit%3Fusp%3Ddrivesdk
+#Project: Kinda-Lamp <BR>
+<BR>Artifacts:<BR>
 
-Logo: https://drive.google.com/open?id=0B4wpRvyukLImNkxXd04ycW9SRkk
+* [Trello board](https://trello.com/b/GiRlMeRe/kinda-board "TRELLO")
+* [Project documentation](https://docs.google.com/document/d/1s7mgYBIGsj7mAxSQLoYYF_097pDYV1SyPLg5Myy7nSA/edit?usp=drivesdk "Project documentation")<BR
